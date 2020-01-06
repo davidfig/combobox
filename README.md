@@ -1,6 +1,7 @@
 # yy-combobox
 A configurable, vanilla combobox (combination of listbox and input box)
 
+Currently a work in progress.
 
 ## Simple Example
 ```js
